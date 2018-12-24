@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Matchlab
+namespace My3d
 {
     public class Class1
     {
